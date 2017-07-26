@@ -1,0 +1,9 @@
+require('./models/User');
+require('./models/Wall');
+require('./models/Post');
+require('./models/Friend');
+require('./models/Default');
+require('./models/Follower');
+require('./models/UserDetails');
+require('./models/GroupWallUser');
+require('./models/SharedWallUser');
